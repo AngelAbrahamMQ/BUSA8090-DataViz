@@ -1,0 +1,5 @@
+mkdir Wiinschiers
+ls
+curl http://www.wiinschiers.org/files/case-cp.sh | tr '[:upper:]' '[:lower:]' 
+pwd 
+ls
